@@ -1,4 +1,4 @@
-﻿# Chapter 2 - Statistical Learning
+# Chapter 2 - Statistical Learning
 
 Tags ： Machine-Learning
 
@@ -6,4 +6,6 @@ Tags ： Machine-Learning
 
 [TOC]
 
-# Data Overview
+# What Is Statistical Learning?
+ - Prediction
+   - The accuracy of $ \hat{Y} $
