@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/zqxie/Machine-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
