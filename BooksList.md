@@ -6,5 +6,5 @@
  
 2. **An Introduction to Statistical Learning  with Applications in R**, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani--Springer (2015)
 
- - Status: Waiting
+ - Status: Beginning at Auguest 30th, 2018
   
