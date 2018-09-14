@@ -10,7 +10,7 @@
  - Status: Beginning at Sep. 6th, 2018; Ending at Sep. 14th, 2018
  - Process: Sep. 10th (P106 - P173), Sep. 11st (P174 - P238)，Sep. 12nd (P239 - P283), Sep. 13rd (P284 - P330), Setp. 14th (P331 - P418)
  
-3. **Aurélien Géron-Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems**, Aurélien Géron, O’Reilly Media (2017)
+3. **Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems**, Aurélien Géron, O’Reilly Media (2017)
 
  - Status: Waiting
 
