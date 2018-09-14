@@ -8,7 +8,7 @@
 2. **An Introduction to Statistical Learning  with Applications in R**, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani--Springer (2015)
 
  - Status: Beginning at Auguest 30th, 2018
- - Process: Sep. 10th (P106 - P173), Sep. 11st (P174 - P238)，Sep. 12nd (P239 - P283)
+ - Process: Sep. 10th (P106 - P173), Sep. 11st (P174 - P238)，Sep. 12nd (P239 - P283), Sep. 13rd (P284 - P330)
  
 3. **Aurélien Géron-Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems**, Aurélien Géron, O’Reilly Media (2017)
 
