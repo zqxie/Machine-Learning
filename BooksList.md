@@ -2,8 +2,7 @@
 
 1. **Introduction to Machine Learning with Python _ A Guide for Data Scientists**, Andreas C. Müller, Sarah Guido, 2016, O’Reilly Media
 
- - Status: Finished
- - Process: Beginning at Aug. 15th, 2018; Ending at Aug. 29th, 2018
+ - Status: Beginning at Aug. 15th, 2018; Ending at Aug. 29th, 2018
  
 2. **An Introduction to Statistical Learning  with Applications in R**, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani--Springer (2015)
 
