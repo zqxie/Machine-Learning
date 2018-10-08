@@ -18,3 +18,7 @@
 4. **Deep Learning with Python**, Francois Chollet, Manning Publications (2017)
 
  - Status: Waiting
+
+5. **Mathematics for Machine Learning**, A Aldo Faisal, and Cheng Soon Ong, UNPUBLISHED (2018)
+
+ - Status: Waiting
