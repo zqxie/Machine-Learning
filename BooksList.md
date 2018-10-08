@@ -13,7 +13,7 @@
 3. **Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems**, Aurélien Géron, O’Reilly Media (2017)
 
  - Status: Begining at Sep. 15th, 2018;
- - Process: Sep. 15th (P1 - P78), Sep 17th (P79 - P104), Sep. 19th (P105 - P144), Sep. 26th (P145 - P200)
+ - Process: Sep. 15th (P1 - P78), Sep 17th (P79 - P104), Sep. 19th (P105 - P144), Sep. 26th (P145 - P200), Sep. 27th  (P201 - P258)
 
 4. **Deep Learning with Python**, Francois Chollet, Manning Publications (2017)
 
