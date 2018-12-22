@@ -22,6 +22,7 @@
 5. **Mathematics for Machine Learning**, A Aldo Faisal, and Cheng Soon Ong, UNPUBLISHED (2018)
 
  - Status: Waiting
+ - Resource: https://github.com/mml-book/mml-book.github.io
 
 6. **CS229 Machine Learning**, Ng Andrew, https://see.stanford.edu/Course/CS229/47
 
