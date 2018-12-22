@@ -22,3 +22,8 @@
 5. **Mathematics for Machine Learning**, A Aldo Faisal, and Cheng Soon Ong, UNPUBLISHED (2018)
 
  - Status: Waiting
+
+6. **CS229 Machine Learning**, Ng Andrew, https://see.stanford.edu/Course/CS229/47
+
+ - Status: Ongoing, Begining at Dec. 22th, 2018
+ - Process: Dec. 22th (Lec.1)
